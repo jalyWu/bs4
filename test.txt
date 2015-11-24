@@ -2,3 +2,4 @@ im a test.txt
 second no conflicts
 im another line
 add aline
+no conflicts
